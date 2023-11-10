@@ -1,3 +1,4 @@
+action.com
 alternate.nl
 archlinux.org
 artixlinux.org
@@ -49,6 +50,7 @@ khanacademy.org
 kongregate.com
 large.nl
 letsblock.it
+lidl.nl
 linux.org
 lunagang.nl
 mangadraft.com
@@ -99,6 +101,7 @@ steampowered.com
 sudoku.com
 symbolab.com
 tenforums.com
+tensorflow.org
 tomsguide.com
 transip.nl
 tweakers.net
@@ -109,6 +112,7 @@ uupdump.net
 vimeo.com
 visualskins.com
 vitalsource.com
+vomar.nl
 wallpaperflare.com
 wartune.wan.com
 wehkamp.nl
@@ -119,6 +123,7 @@ xcp-ng.org
 xda-developers.com
 xdaforums.com
 xenoversemods.com
+ygoprodeck.com
 youtube.com
 yugioh-card.com
 ziggo.nl
