@@ -36,6 +36,7 @@
 @@f-droid.org^
 @@fearlessrevolution.com^
 @@freebsd.org^
+@@g2a.com^
 @@geogebra.org^
 @@github.com^
 @@githubusercontent.com^
