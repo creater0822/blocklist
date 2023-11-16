@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: Global whitelist
-! Version: 10november2023v2
+! Version: 16november2023v2
 ! Description: Prevent these websites from being blocked, in case one of the many blocklist subscriptions sess false positives
 ! Homepage: https://github.com/creater0822/blocklist/
 @@action.com^
