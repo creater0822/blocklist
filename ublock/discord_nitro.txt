@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: Discord telemetry & Nitro elements
-! Version: 16november2023v2
+! Version: 17January2024
 ! Description: Block the annoying Nitro promotion elements and telemetry.
 ! Homepage: https://github.com/creater0822/blocklist/
 
