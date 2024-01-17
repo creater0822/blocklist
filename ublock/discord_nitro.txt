@@ -38,3 +38,5 @@ discord.com##div.themed_b957e8.item__48dda:nth-of-type(13)
 discord.com##div.themed_b957e8.item__48dda:nth-of-type(14)
 discord.com##div.themed_b957e8.item__48dda:nth-of-type(15)
 discord.com##div.themed_b957e8.item__48dda:nth-of-type(16)
+
+discord.com##.buttons_ce5b56 > .container__5eb17
