@@ -1,42 +1,34 @@
 [Adblock Plus]
 ! Title: Discord telemetry & Nitro elements
-! Version: 17January2024
+! Version: 28March2024
 ! Description: Block the annoying Nitro promotion elements and telemetry.
 ! Homepage: https://github.com/creater0822/blocklist/
 
 ! Block telemetry
 ||discord.com/api/v9/science$important,xhr,1p
 
-! Help button (on top right corner)
-discord.com##.toolbar__88c63 > .anchorUnderlineOnHover__78236.anchor_c8ddc0
-discord.com##.anchorUnderlineOnHover__78236.anchor_c8ddc0 > .clickable_d23a1a.iconWrapper_af9215 > .icon__4cb88
-! Nitro notice
-discord.com##.colorPremium__32b12.colorPremiumTier2_b5437b.notice__5fd4c
-! Gift nitro
-discord.com##.buttons_ce5b56 > .grow__4c8a4.colorBrand_b2253e.lookBlank__7ca0a.button_afdfd9 > .button__55e53.button_f0455c.contents_fb6220
-! Nitro recharge and shop
-discord.com##li.container__8759a.channel_c21703:nth-of-type(2)
-discord.com##li.container__8759a.channel_c21703:nth-of-type(3)
-! Download button for the inferior Discord client
-discord.com##div.listItem_fa7b36:nth-of-type(7)
+! Block sidebar shop, Nitro promotions & inferior client download button
+discord.com##li.container__3792d.channel__0aef5:nth-of-type(2)
+discord.com##li.container__3792d.channel__0aef5:nth-of-type(3)
+discord.com##div.listItem__48528:nth-of-type(7)
+! Block chat bar gift button
+discord.com##.buttons__7ecff > .grow__4c8a4.colorBrand__27d57.lookBlank_a5b4ca.button__581d0
+! Help button at the top-right corner
+discord.com##.toolbar__62fb5 > .anchorUnderlineOnHover__03b72.anchor_c8ddc0
 
-! Settings > Profile > Shop promotion
-discord.com##.containerDefaultMargin_dcee92.container_d6bff4
-! Settings > Profile > Nitro promotion
-discord.com##.background__097ec.premiumBackground__4ce97
-! Settings > Merch
-discord.com##div.themed_b957e8.item__48dda:nth-of-type(40)
-! HypeSquad
-discord.com##div.themed_b957e8.item__48dda:nth-of-type(41)
-! Social links
-discord.com##.socialLinks_c1fc99
+! Settings: Family Center
+discord.com##.themed_b957e8.selected_a523ff.item__48dda
+discord.com##div.themed_b957e8.item__48dda:nth-of-type(5)
+! Settings: Billing section
+discord.com##div.header__71a82:nth-of-type(12)
+discord.com##div.themed_b957e8.item__48dda:nth-of-type(17)
+discord.com##div.separator_d14fb1:nth-of-type(18)
+! Settings: HypeSquad
+discord.com##div.themed_b957e8.item__48dda:nth-of-type(42)
+discord.com##div.separator_d14fb1:nth-of-type(43)
+! Settings: Social links at the bottom of the sidebar
+discord.com##.socialLinks_dbdd6f
 
-! Settings > Billing
-discord.com##div.header_f72511:nth-of-type(11)
-discord.com##.themed_b957e8.item__48dda.premiumTab__57bdc
-discord.com##div.themed_b957e8.item__48dda:nth-of-type(13)
-discord.com##div.themed_b957e8.item__48dda:nth-of-type(14)
-discord.com##div.themed_b957e8.item__48dda:nth-of-type(15)
-discord.com##div.themed_b957e8.item__48dda:nth-of-type(16)
-
-discord.com##.buttons_ce5b56 > .container__5eb17
+! Settings -> Profiles: Shop & Nitro elements
+discord.com##.container__686c4
+discord.com##.tryItOutSection_d658ca.featureBorder__404e3.premiumFeatureBorder__6ac04
