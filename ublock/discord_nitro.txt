@@ -41,3 +41,6 @@ discord.com##.socialLinks_dbdd6f
 ! Settings -> Profiles: Shop & Nitro elements
 discord.com##.container__686c4
 discord.com##.tryItOutSection_d658ca.featureBorder__404e3.premiumFeatureBorder__6ac04
+
+! Garbage lootbox
+discord.com##.wrapper_a2d9da
