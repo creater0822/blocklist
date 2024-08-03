@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: Discord telemetry & Nitro elements
-! Version: 28March2024
+! Version: 03August2024
 ! Description: Block the annoying Nitro promotion elements and telemetry.
 ! Homepage: https://github.com/creater0822/blocklist/
 
@@ -8,9 +8,10 @@
 ||discord.com/api/v9/science$important,xhr,1p
 
 ! Block sidebar shop & Nitro promotions
+discord.com##li.container_b15955.channel_c91bad:nth-of-type(2)
 discord.com##div > .container_b15955.channel_c91bad
-!!discord.com##li.container_b15955.channel_c91bad:nth-of-type(2)
-!!discord.com##li.container_b15955.channel_c91bad:nth-of-type(3)
+!discord.com##li.container_b15955.channel_c91bad:nth-of-type(3) ! Has become a DM element
+
 ! Block sidebar discovery & inferior app download button
 discord.com##div.listItem_c96c45:nth-of-type(5)
 discord.com##div.listItem_c96c45:nth-of-type(7)
