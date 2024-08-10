@@ -8,15 +8,18 @@
 ||discord.com/api/v9/science$important,xhr,1p
 
 ! Block sidebar shop & Nitro promotions
-discord.com##li.container_b15955.channel_c91bad:nth-of-type(2)
-discord.com##div > .container_b15955.channel_c91bad
+discord.com##li.container_d91ad9.channel_c91bad:nth-of-type(2)
+discord.com##li.container_d91ad9.channel_c91bad:nth-of-type(3)
 !discord.com##li.container_b15955.channel_c91bad:nth-of-type(3) ! Has become a DM element
 
 ! Block sidebar discovery & inferior app download button
 discord.com##div.listItem_c96c45:nth-of-type(5)
 discord.com##div.listItem_c96c45:nth-of-type(7)
+
 ! Block chat bar gift button
 discord.com##.buttons_d0696b > .grow_dd4f85.colorBrand_dd4f85.lookBlank_dd4f85.button_dd4f85
+! Chat bar app launcher
+discord.com##.channelAppLauncher_df39bd
 ! Help button at the top-right corner
 discord.com##.toolbar_e44302 > .anchorUnderlineOnHover_af404b.anchor_af404b
 
