@@ -8,9 +8,7 @@
 ||discord.com/api/v9/science$important,xhr,1p
 
 ! Block sidebar shop & Nitro promotions
-discord.com##li.container_d91ad9.channel_c91bad:nth-of-type(2)
-discord.com##li.container_d91ad9.channel_c91bad:nth-of-type(3)
-!discord.com##li.container_b15955.channel_c91bad:nth-of-type(3) ! Has become a DM element
+discord.com##.content_eed6a8 > li.container_d91ad9.channel_c91bad > .linkButton_c91bad.interactive_c91bad.interactive_f5eb4b
 
 ! Block sidebar discovery & inferior app download button
 discord.com##.scrollerBase_c49869.none_c49869.scroller_fea3ef > div.listItem_c96c45 > .listItemWrapper_dfb2f8
